@@ -27,7 +27,7 @@ Unplanned machine failures are costly in industries like Manufacturing, Automoti
 
 ##  Dataset Description
 
-- **Source:** Kaggle – Industrial Machine Failure Dataset  
+- **Source:** Industrial Machine Failure Dataset  
 - **Observations:** 10,000  
 - **Features:** 14 sensor and operational parameters  
 
