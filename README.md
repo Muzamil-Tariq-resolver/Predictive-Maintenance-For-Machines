@@ -63,7 +63,7 @@ This dataset supports both **binary failure prediction** and **multi-class class
 - Exploratory Data Analysis (EDA) using Seaborn & Matplotlib  
 - Statistical modeling with Statsmodels  
 - Anomaly detection (Isolation Forest, PCA)  
-- Predictive modeling: Logistic Regression, Random Forest, Gradient Boosting  
+- Predictive modeling: Logistic Regression, Random Forest  
 - Feature engineering and feature importance evaluation  
 
 ### Visualization & Reporting
