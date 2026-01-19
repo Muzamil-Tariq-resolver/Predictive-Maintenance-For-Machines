@@ -45,9 +45,7 @@ Unplanned machine failures are costly in industries like Manufacturing, Automoti
   - HDF – Heat Dissipation Failure  
   - PWF – Power Failure  
   - OSF – Overstrain Failure  
-  - RNF – Random Failure  
-
-This dataset supports both **binary failure prediction** and **multi-class classification**, providing a rich testbed for predictive maintenance solutions.  
+  - RNF – Random Failure   
 
 ---
 
