@@ -15,7 +15,8 @@ Unplanned machine failures are costly in industries like Manufacturing, Automoti
 **Key goals:**  
 - Predict machine failures before they occur  
 - Understand physical mechanisms behind different failure modes  
-- Provide actionable insights for industrial decision-making  
+- Provide actionable insights for industrial decision-making
+- Model Deployment to BigQuery Data Warehouse using robust pipelines 
 
 **Highlights:**  
 - Physics-driven feature analysis (temperature, torque, rotational speed, tool wear)  
