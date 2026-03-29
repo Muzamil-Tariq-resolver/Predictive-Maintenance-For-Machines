@@ -10,7 +10,7 @@
 
 ## Project Overview
 
-Unplanned machine failures are costly in industries like Manufacturing, Automotive, and Aerospace. This project demonstrates how predictive maintenance can prevent downtime by combining **sensor data**, **physics-based insights**, and **machine learning**.
+Unplanned machine failures are costly in industries like Manufacturing, Automotive, and Aerospace. Predictive maintenance can prevent downtime by combining **sensor data**, **physics-based insights**, and **machine learning**.
 
 **Key goals:**  
 - Predict machine failures before they occur  
@@ -72,7 +72,7 @@ Unplanned machine failures are costly in industries like Manufacturing, Automoti
 
 ---
 
-## Project Outcome
+## Outcomes
 
 - High-performing Random Forest model for failure prediction  
 - Feature insights show **tool wear, thermal stress, torque, and speed** as primary drivers of failure  
