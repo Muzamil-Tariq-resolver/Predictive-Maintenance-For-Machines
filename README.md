@@ -30,7 +30,7 @@ Unplanned machine failures are costly in industries like Manufacturing, Automoti
 
 - Industrial Machine Failure Dataset  
 - **Observations:** 10,000  
-- **Features:** 14 sensor and operational parameters  
+- **Features:** 6 sensor and operational parameters  
 
 **Key Features:**  
 - Air temperature [K]  
