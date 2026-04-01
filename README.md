@@ -37,7 +37,14 @@ Unplanned machine failures are costly in industries like Manufacturing, Automoti
 - Process temperature [K]  
 - Rotational speed [rpm]  
 - Torque [Nm]  
-- Tool wear [min]  
+- Tool wear [min]
+- The Type column has values: These are machine sizes or classes:
+
+L → Small/Light machine
+
+M → Medium machine
+
+H → Heavy/Large machine
 
 **Target Variables:**  
 - **Machine failure** (binary: 0/1)  
